@@ -14,7 +14,7 @@ Once you've done that, download the vivecraft installer
 
 Once downloaded, run it, you need to tick **Install Vivecraft with Forge**
 
-**Enable custom version and enter:** `14.23.5.2808`
+**Enable custom version and enter:** `14.23.5.2836`
 
 Under create Vivecraft launcher profile, you can adjust how much RAM you want to give it. And you can also change the name of the profile for when you load it on the launcher.
 
