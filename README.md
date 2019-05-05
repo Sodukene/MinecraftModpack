@@ -4,7 +4,7 @@
 
 ### INSTALLATION
 
-To install this modpack, simply download from the releases page. **Unzip it in a rememberable place like the downloads folder**
+To install this modpack, simply download from the [releases](https://github.com/Sodukene/MinecraftModpack/releases/latest) page. **Unzip it in a rememberable place like the downloads folder**
 
 Once you've done that, download the vivecraft installer
     [Non-VR](https://github.com/jrbudda/Vivecraft_112/releases/download/1.12.2-jrbudda-7/vivecraft-1.12.2-jrbudda-NONVR-8-r5-installer.exe)
@@ -22,3 +22,10 @@ Then click install, and **MAKE SURE** you install forge alongside the installati
 
 Now that you installed it, you can launch the game via the default Minecraft Launcher and it'll be a profile you can use.
 
+---
+
+I do not own the original rights to this modpack. It's originally a FTB modpack called the FTB Ultimate Reloaded modpack with a few additional modifications to the pack.
+
+---
+
+If there is any issues please contact me over discord if needed. Jonathan123ii#0420
