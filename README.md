@@ -7,6 +7,7 @@
 To install this modpack, simply download from the [releases](./releases/latest) page. **Unzip it in a rememberable place like the downloads folder**
 
 Once you've done that, download the vivecraft installer
+	\
 	[Non-VR](https://github.com/jrbudda/Vivecraft_112/releases/download/1.12.2-jrbudda-7/vivecraft-1.12.2-jrbudda-NONVR-8-r5-installer.exe)
 	\
 	[VR](https://github.com/jrbudda/Vivecraft_112/releases/download/1.12.2-jrbudda-7/vivecraft-1.12.2-jrbudda-7-r12-installer.exe)
