@@ -26,7 +26,7 @@ Now that you installed it, you can launch the game via the default Minecraft Lau
 
 ---
 
-I do not own the original rights to this modpack. It's originally a FTB modpack called the FTB Ultimate Reloaded modpack with a few additional modifications to the pack. **All credits go towards them and the mod creators, and I'm simply doing this for a group of friends so we can easily update/change the modpack as we play**
+I do not own the original rights to this modpack. It's originally a FTB modpack called the FTB Ultimate Reloaded modpack with a few additional modifications to the pack. **All credits go towards them and the mod creators. I'm simply doing this for a group of friends so we can easily update/change the modpack as we play**
 
 ---
 
