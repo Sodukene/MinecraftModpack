@@ -4,7 +4,7 @@
 
 ### INSTALLATION
 
-To install this modpack, simply download from the [releases](./releases/latest) page. **Unzip it in a rememberable place like the downloads folder**
+To install this modpack, simply download from the [releases](https://github.com/Sodukene/MinecraftModpack/releases/latest) page. **Unzip it in a rememberable place like the downloads folder**
 
 Once you've done that, download the vivecraft installer
 \
