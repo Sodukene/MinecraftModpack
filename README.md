@@ -28,7 +28,7 @@ Now that you installed it, you can launch the game via the default Minecraft Lau
 
 ### UPDATING
 
-To simply update, replace your modpack folder with a newly updated one, your settings might be reset because of this unfortunately, it's the only easiest way to update the server so far.
+To simply update, replace your modpack folder with a newly updated one, your settings might be reset because of this unfortunately, it's the only easiest way to update the modpack so far.
 
 ---
 
