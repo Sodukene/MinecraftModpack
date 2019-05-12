@@ -4,7 +4,7 @@
 
 ### INSTALLATION
 
-To install this modpack, simply download the [repo](https://github.com/Sodukene/MinecraftModpack/archive/master.zip) page. **Unzip it in a safe place like the documents folder**
+To install this modpack, simply download the [repo](https://github.com/Sodukene/MinecraftModpack/archive/master.zip). **Unzip it in a safe place like the documents folder**
 
 Once you've done that, download the vivecraft installer
 \
