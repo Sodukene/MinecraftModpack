@@ -18,11 +18,17 @@ Once downloaded, run it, you need to tick **Install Vivecraft with Forge**
 
 Under create Vivecraft launcher profile, you can adjust how much RAM you want to give it. And you can also change the name of the profile for when you load it on the launcher.
 
-**Make sure the modpack option is ticked**, then select the **minecraft folder** on where you extracted it, in my case it'll be: C:\Users\Jonathan\Documents\MinecraftModpack\minecraft
+**Make sure the modpack option is ticked**, then select the **minecraft folder** on where you extracted it, in my case it'll be: C:\Users\Jonathan\Documents\MinecraftModpack-master\modpack
 
 Then click install, and **MAKE SURE** you install forge alongside the installation when it pops up. You don't have to modify any settings here.
 
 Now that you installed it, you can launch the game via the default Minecraft Launcher and it'll be a profile you can use.
+
+---
+
+### UPDATING
+
+To simply update, replace your modpack folder with a newly updated one, your settings might be reset because of this unfortunately, it's the only easiest way to update the modpack so far.
 
 ---
 
