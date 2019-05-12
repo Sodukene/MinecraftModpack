@@ -4,7 +4,7 @@
 
 ### INSTALLATION
 
-To install this modpack, simply download from the [releases](https://github.com/Sodukene/MinecraftModpack/releases/latest) page. **Unzip it in a safe place like the documents folder**
+To install this modpack, simply download the [repo](https://github.com/Sodukene/MinecraftModpack/archive/master.zip) page. **Unzip it in a safe place like the documents folder**
 
 Once you've done that, download the vivecraft installer
 \
@@ -14,7 +14,7 @@ Once you've done that, download the vivecraft installer
 
 Once downloaded, run it, you need to tick **Install Vivecraft with Forge**
 
-**Enable custom version and enter:** `14.23.5.2836`
+**Enable custom version and enter:** `14.23.5.2825`
 
 Under create Vivecraft launcher profile, you can adjust how much RAM you want to give it. And you can also change the name of the profile for when you load it on the launcher.
 
