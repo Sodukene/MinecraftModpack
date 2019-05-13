@@ -24,6 +24,10 @@ Then click install, and **MAKE SURE** you install forge alongside the installati
 
 Now that you installed it, you can launch the game via the default Minecraft Launcher and it'll be a profile you can use.
 
+## This is how it should look in theory on the vivecraft installer. RAM is subjective, and you should change that to how much you want to use for Minecraft higher is better but is more likely to be unstable.
+
+![Scrnsht1](https://i.gyazo.com/6079b3cfc1c0fdf8d6d8a05af7111553.png "Screenshot 1")
+
 ---
 
 ### UPDATING
